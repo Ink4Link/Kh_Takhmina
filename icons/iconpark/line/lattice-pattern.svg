@@ -1,0 +1,27 @@
+<svg width="80" height="80" fill="none" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M3 4h2"></path>
+  <path d="M7 8h2"></path>
+  <path d="M8 3v2"></path>
+  <path d="M4 7v2"></path>
+  <path d="M11 4h2"></path>
+  <path d="M15 8h2"></path>
+  <path d="M16 3v2"></path>
+  <path d="M12 7v2"></path>
+  <path d="M19 4h2"></path>
+  <path d="M20 7v2"></path>
+  <path d="M3 12h2"></path>
+  <path d="M7 16h2"></path>
+  <path d="M8 11v2"></path>
+  <path d="M4 15v2"></path>
+  <path d="M11 12h2"></path>
+  <path d="M15 16h2"></path>
+  <path d="M16 11v2"></path>
+  <path d="M12 15v2"></path>
+  <path d="M19 12h2"></path>
+  <path d="M20 15v2"></path>
+  <path d="M3 20h2"></path>
+  <path d="M8 19v2"></path>
+  <path d="M11 20h2"></path>
+  <path d="M16 19v2"></path>
+  <path d="M19 20h2"></path>
+</svg>

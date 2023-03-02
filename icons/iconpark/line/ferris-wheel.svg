@@ -1,0 +1,19 @@
+<svg width="80" height="80" fill="none" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M4.5 22 12 11"></path>
+  <path d="M19.5 22 12 11"></path>
+  <path d="M4.566 12a7.475 7.475 0 0 1 .684-4.273"></path>
+  <path d="M5.578 14.877A7.51 7.51 0 0 0 10.5 18.35"></path>
+  <path d="M13.5 18.35a7.51 7.51 0 0 0 4.956-3.53"></path>
+  <path d="M19.434 12c.043-.328.066-.661.066-1a7.47 7.47 0 0 0-.75-3.273"></path>
+  <path d="M13.5 3.65A7.48 7.48 0 0 1 17 5.41"></path>
+  <path d="M10.5 3.65a7.477 7.477 0 0 0-3.807 2.051"></path>
+  <path d="M5 15a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+  <path d="M12 20a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+  <path d="M12 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+  <path d="M6 8a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+  <path d="M18 8a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+  <path d="M19 15a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M12 13a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path>
+  <path d="M3 22h4"></path>
+  <path d="M17 22h4"></path>
+</svg>

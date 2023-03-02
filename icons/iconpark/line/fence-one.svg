@@ -1,0 +1,12 @@
+<svg width="80" height="80" fill="none" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M4 2v20"></path>
+  <path d="M22 6H2"></path>
+  <path d="M20 22 4 6"></path>
+  <path d="M4 22 20 6"></path>
+  <path d="M13.5 22 4 12.5"></path>
+  <path d="M20 15.5 10.5 6"></path>
+  <path d="M4 15.5 13 6"></path>
+  <path d="m10.5 22 9.5-9.5"></path>
+  <path d="M22 22H2"></path>
+  <path d="M20 2v20"></path>
+</svg>

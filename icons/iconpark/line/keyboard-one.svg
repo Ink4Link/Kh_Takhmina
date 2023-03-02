@@ -1,0 +1,15 @@
+<svg width="80" height="80" fill="none" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M21 9H3a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V10a1 1 0 0 0-1-1Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M7 13a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M8 16a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M5 16a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M10 13a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M11 16a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M13 13a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M14 16a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M16 13a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M17 16a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path fill="#5e5e5e" stroke="none" d="M19 13a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+  <path d="M8.5 18h7"></path>
+  <path d="M16.5 9V6.562a.5.5 0 0 1 .5-.5h2.5a.5.5 0 0 0 .5-.5V3"></path>
+</svg>

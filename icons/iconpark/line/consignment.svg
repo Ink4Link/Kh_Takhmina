@@ -1,0 +1,18 @@
+<svg width="80" height="80" fill="none" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M4 7a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7Z"></path>
+  <path d="M8 6v10"></path>
+  <path d="M16 6v10"></path>
+  <path d="M14 6h4"></path>
+  <path d="M6 6h4"></path>
+  <path d="M6 16h4"></path>
+  <path d="M14 16h4"></path>
+  <path d="M2 19h20"></path>
+  <path d="M9 19v1"></path>
+  <path d="M6 19v1"></path>
+  <path d="M3 19v1"></path>
+  <path d="M12 19v1"></path>
+  <path d="M15 19v1"></path>
+  <path d="M18 19v1"></path>
+  <path d="M21 19v1"></path>
+  <path d="M15 6V3H9v3"></path>
+</svg>
